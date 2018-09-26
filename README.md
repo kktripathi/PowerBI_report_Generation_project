@@ -5,7 +5,9 @@ Created a PowerBI report using simple Credit card transaction data (.csv format)
 <html>
 <body>
 
-<embed src="https://app.powerbi.com/groups/me/dashboards/fe4551c3-d6a9-4971-823c-bd29026ceae1">
+<iframe src="https://app.powerbi.com/groups/me/dashboards/fe4551c3-d6a9-4971-823c-bd29026ceae1">
+  <p>Dashboard</p>
+</iframe>
 
 </body>
 </html>
